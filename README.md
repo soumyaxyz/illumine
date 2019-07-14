@@ -4,4 +4,4 @@ Illumine is designed as a chrome extension that finds an open full text for any 
 
 
 
-![Figure 1](https://www.dropbox.com/s/qzvylhhx3twlqcw/State_Diagram.png)
+![Figure 1](hhttps://github.com/soumyaxyz/illumine/blob/master/State_Diagram.png)
