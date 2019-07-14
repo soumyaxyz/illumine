@@ -6,3 +6,5 @@ Figures 1 and 2 details the workings of Illumine through state chart and activit
 | Figure 1      | Figure 2      | 
 |------------|-------------| 
 | ![Figure 1](https://github.com/soumyaxyz/illumine/blob/master/State_Diagram.png)|![Figure 2](https://github.com/soumyaxyz/illumine/blob/master/Activity_Diagram.png) |
+
+
