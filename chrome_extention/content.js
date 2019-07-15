@@ -143,7 +143,7 @@ function httpGet(url_api,key){
 function get_google_scholar_query_string(title, author){
     var base_url   ='https://scholar.google.co.in/scholar?hl=en&as_sdt=0%2C5&q='
     if (title.split(" ").length >5)
-        return base_url+"\""+title;
+        return base_url+"\""+title+"\"";
     else
         return base_url+"\""+title+"\"+"+author.split("♦")[0];   
 }
